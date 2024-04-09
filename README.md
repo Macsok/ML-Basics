@@ -5,3 +5,4 @@
 - 30.03.2024 Linear regression implementation and testing code on small dataset
 - 04.04.2024 Softmax (activation) function - theory and visualization
 - 06.04.2024 Backpropagation - implementation on square error cost function
+- 09.04.2024 3D plotting - basic using of ploting in 3D
